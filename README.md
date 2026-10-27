@@ -1,1 +1,1 @@
-# -2---bit-comparator-
+# -1---bit-comparator-
